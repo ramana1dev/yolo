@@ -20,7 +20,7 @@ data_dir = '/output/'
 Dataset_names_path = "model_data/names.txt"
 Dataset_train = "model_data/train.txt"
 Dataset_test = "model_data/test.txt"
-is_subfolder = True
+is_subfolder = False
 
 Dataset_names = []
       
